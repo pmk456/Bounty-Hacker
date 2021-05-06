@@ -26,6 +26,7 @@ Answer 3 = lin
 '''
 hydra -l lin -V -t 4 -P locks.txt ssh://{your machine ip}
 '''
+![alt text](https://github.com/pmk456/images/blob/images/hydra_bf.jpg?raw=true)
 # Boom I Got The Password
 '''
 Answer 4 = RedDr4gonSynd1cat3
