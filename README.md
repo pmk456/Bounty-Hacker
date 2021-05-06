@@ -9,11 +9,11 @@ Answer 1 = No Answer Needed
 Answer 2 = No Answer Needed
 # Enumeration
 ### Scanning For Open Ports
-'''
-Found 80 Port Running Apache Server
-Found 21 Port Running FTP
-Found 22 Port Running SSH
-'''
+
+## Found Port 80  Running Apache Server
+## Found Port 21 Running FTP
+## Found Port 22Running SSH
+
 ## Opened FTP Using Command: ftp {your machine ip} and user_name = Anonymous
 '''
 Found Username With Name Lin in task.txt
