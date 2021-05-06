@@ -31,12 +31,12 @@ hydra -l lin -V -t 4 -P locks.txt ssh://{your machine ip}
 '''
 Answer 4 = RedDr4gonSynd1cat3
 '''
-![alt text](https://raw.githubusercontent.com/pmk456/Bounty-Hacker/main/cat%20user.png)
 # Lets SSH Into It
 # We Got User Flag Which Is:
 '''
 THM{CR1M3_SyNd1C4T3}
 '''
+![alt text](https://raw.githubusercontent.com/pmk456/Bounty-Hacker/main/cat%20user.png)
 # Privilage Escalation
 ### Lets Download Linpeas.sh 
 ### Started A http server using python and downloaded Linpeas.sh
