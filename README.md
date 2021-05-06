@@ -31,6 +31,7 @@ hydra -l lin -V -t 4 -P locks.txt ssh://{your machine ip}
 '''
 Answer 4 = RedDr4gonSynd1cat3
 '''
+![alt text](https://raw.githubusercontent.com/pmk456/Bounty-Hacker/main/cat%20user.png)
 # Lets SSH Into It
 # We Got User Flag Which Is:
 '''
